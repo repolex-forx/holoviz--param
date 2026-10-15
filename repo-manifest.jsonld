@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/holoviz/param/commit/a45813bcda1340945c6a38e18f8c95114a2b4a95",
       "git:hexsha": "a45813bcda1340945c6a38e18f8c95114a2b4a95",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v2.5.0b3"
     },
     {
