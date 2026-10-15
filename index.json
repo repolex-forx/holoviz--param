@@ -1,0 +1,11 @@
+{
+  "org": "holoviz",
+  "repo": "param",
+  "versions": [
+    {
+      "commit": "a45813bcda1340945c6a38e18f8c95114a2b4a95",
+      "tag": "v2.5.0b3",
+      "parsed_at": "2026-10-15T21:27:32.873705+00:00"
+    }
+  ]
+}
